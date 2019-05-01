@@ -1,0 +1,5 @@
+0-1000 Watts;For;0.00121;0.003
+1001-3000 Watts;Single Phase = 2;0.00121;0.0067	
+3001-5000 Watts;(Rs/Day.);0.00121;0.97
+5001-7000 Watts;Three Phase = 6;0.00121;0.0112
+Above 7000 watts;(Rs/Day.);0.00121;0.0125

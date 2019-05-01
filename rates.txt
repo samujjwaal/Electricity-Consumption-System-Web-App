@@ -1,0 +1,5 @@
+0-100 units;For;1.21;3.00
+101-300 units;Single Phase = 60  ;1.21;6.73	
+301-500 units;(Rs/Mth.);1.21;9.70
+501-1000 units;Three Phase = 170;1.21;11.20
+Above 1000 units;(Rs/Mth.);1.21;12.48
